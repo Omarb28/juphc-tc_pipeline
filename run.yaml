@@ -8,7 +8,7 @@ spec:
     name: tc-pipeline
   params:
     - name: repo-url
-      value: "https://github.com/ibm-developer-skills-network/zntwk-tax_calculator.git"
+      value: "https://github.com/Omarb28/zntwk-tax_calculator.git"
     - name: branch
       value: "main"
     - name: app-name
